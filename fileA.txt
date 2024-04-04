@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the first comment
+=======
+This is the first comment.
+>>>>>>> main
